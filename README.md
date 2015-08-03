@@ -49,7 +49,7 @@ console.log( words );
 
 ## Notes
 
-*	A word's appearance in a sentence does not necessarily imply a positive or negative opinion. See [[Liu (2010)](#liu-2010)].
+*	A word's appearance in a sentence does __not__ necessarily imply a positive or negative opinion. See [Liu (2010)](#liu-2010).
 *	The list includes misspelled words. Their presence is intentional, as such misspellings frequently occur in social media content.
 
 
